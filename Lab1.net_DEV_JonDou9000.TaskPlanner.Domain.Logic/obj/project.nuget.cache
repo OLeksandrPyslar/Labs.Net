@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "quAuIUbeLSMzGOY3nABtez+4Bt41035xQMkHxReK24lkH2FQUEHT8SHUFwodNocvN+jjkiUBaivrcI5KLF50AA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Олександр\\OneDrive\\Робочий стіл\\Pyslar_4PI_.NET\\Lab1.net_DEV_JonDou9000.TaskPlanner.Domain.Logic\\JonDou9000.TaskPlanner.Domain.Logic.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\Олександр\\OneDrive\\Робочий стіл\\Pyslar_4PI_.NET\\TaskPlanner.DataAccess\\TaskPlanner.DataAccess.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Олександр\\OneDrive\\Робочий стіл\\Pyslar_4PI_.NET\\TaskPlanner.DataAccess\\TaskPlanner.DataAccess.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
